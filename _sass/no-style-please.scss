@@ -78,12 +78,15 @@ div.highlighter-rouge code {
 }
 
 blockquote {
-  font-style: italic;
-  border: thin solid black;
-  padding: 1rem;
-
-  p { margin: 0; }
-}
+    font-family: 'Noto Serif KR', serif;
+    background: #FFFFFF;
+    margin:0;
+    padding: 1px 0px 1px 8px;
+    border-left: 4px solid #CCCCCC;
+    p {
+        line-height: 2;
+        color: $second-font-color;
+    }
 
 img {
   max-width: 100%;
