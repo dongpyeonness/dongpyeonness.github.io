@@ -4,10 +4,11 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: dongpyeonness의 github pages입니다. html 출력 연습 중에 있습니다. 
+      - title: github
+        url: https://github.com/dongpyeonness
+      - title: "<a href='https://www.nintendo.co.jp/n02/shvc/mb/index.html'>「ＭＯＴＨＥＲ２ ギーグの逆襲」</a> <a href='https://www.nintendo.co.jp/n08/a2uj/mother2/hero/index.html'>ネス</a>군! 나도 데려가. .."
+
 
   - title: all posts
     post_list:
@@ -16,6 +17,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
+
   - title: posts by category
     post_list:
       category: example2
@@ -23,16 +25,6 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
+
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
