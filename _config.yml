@@ -2,9 +2,9 @@ title: dongpyeonness! # name of the site
 author: dongpyeonness # name of site's author
 email: icloud.com # email of site's author
 url: dongpyeonness.github.io # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "/dongpyeonness" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  dongpyeonness의 github입니다.
+ # dongpyeonness의 github입니다.
   
 permalink: /:slug.html
 
