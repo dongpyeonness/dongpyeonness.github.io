@@ -23,12 +23,16 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
-      post_list:
+      
+   - title: posts by category
+     post_list:
       category: 상암디지털미디어시티
       show_more: true
       show_more_text: See more posts...
       show_more_url: sangamdigitalmediacity-archive.html
-      post_list:
+      
+   - title: posts by category
+     post_list:
       category: 증산탁구장
       show_more: true
       show_more_text: See more posts...
