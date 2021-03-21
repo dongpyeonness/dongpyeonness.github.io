@@ -7,8 +7,7 @@ entries:
       - title: 고윤지의 github pages입니다.
       - title: github
         url: https://github.com/dongpyeonness
-      - title: email
-        url: ["yd1vf3@icloud.com"]
+      - title: <a href="mailto:yd1vf3@icloud.com">email</a>
         
   - title: all posts
     post_list:
