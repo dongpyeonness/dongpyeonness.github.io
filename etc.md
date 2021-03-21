@@ -6,4 +6,4 @@ title: etc
 
  - <a href='http://figs4fun.com/basics_Harvest.html'>harvest figs</a>
 
- + <a href='https://classroom.google.com/c/MjkyNDk2OTEzNjQ2'>`<디지털미디어워크샵 II>`</a> 연계 html 출력 프로젝트 💞
+ + <a href='https://classroom.google.com/c/MjkyNDk2OTEzNjQ2'><디지털미디어워크샵 II></a> 연계 html 출력 프로젝트 💞
