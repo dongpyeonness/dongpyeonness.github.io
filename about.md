@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+ - title: "<a href='https://www.nintendo.co.jp/n02/shvc/mb/index.html'>「ＭＯＴＨＥＲ２ ギーグの逆襲」</a> 주인공<a href='https://www.nintendo.co.jp/n08/a2uj/mother2/hero/index.html'>ネス</a>군!"
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+ - title: "<a href='http://figs4fun.com/Varieties.html'>무화과 데이터베이스</a>
