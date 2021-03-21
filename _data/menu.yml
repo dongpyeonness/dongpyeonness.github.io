@@ -32,6 +32,6 @@ entries:
     entries:
       - title: with subitems
         entries:
-          - title: with subsubitems
           - title: more
             url: more
+            
