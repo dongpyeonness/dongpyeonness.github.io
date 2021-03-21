@@ -1,10 +1,9 @@
-title: # dongpyeonness! # name of the site
-author: # dongpyeonness # name of site's author
+title: # dongpyeonness!
+author: # dongpyeonness
 email: # email of site's author
-url: "https://dongpyeonness.github.io" # root address of the site
+url: # "https://dongpyeonness.github.io"
 baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
- # dongpyeonness의 github입니다.
+description: > # dongpyeonness의 github입니다.
   
 permalink: /:slug.html
 
