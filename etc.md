@@ -7,3 +7,5 @@ title: etc
  - <a href='http://figs4fun.com/basics_Harvest.html'>harvest figs</a>
 
  + 「디지털미디어워크샵 II」 연계 html 출력 💞
+
+ - <a href='http://irational.org/heath/borderxing/at.hu/'>BorderXing between Hungary (Kormend) and Austria (Gussing).</a>
