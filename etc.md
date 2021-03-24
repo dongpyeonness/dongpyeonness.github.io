@@ -8,8 +8,8 @@ title: etc
 
  + 「디지털미디어워크샵 II」 연계 html 출력 💞
 
- - <a href='http://irational.org/heath/borderxing/at.hu/'>BorderXing between Hungary (Kormend) and Austria (Gussing).</a>
+ - <a href='http://irational.org/heath/borderxing/at.hu/'>borderXing guide</a>
 
  - <a href='https://www.youtube.com/watch?v=g6MsSqH4FNc'>희망의 건너편</a>
 
- - <http://kibou-film.com/img/cast_photo09.jpg>
+ - !(http://kibou-film.com/img/cast_photo09.jpg)
