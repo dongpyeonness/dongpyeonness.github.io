@@ -12,4 +12,4 @@ title: etc
 
  - <a href='https://www.youtube.com/watch?v=g6MsSqH4FNc'>희망의 건너편</a>
 
- - http://kibou-film.com/img/cast_photo09.jpg
+ - <http://kibou-film.com/img/cast_photo09.jpg>
