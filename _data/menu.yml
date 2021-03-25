@@ -16,22 +16,20 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category sangamdigitalmediacity
+  - title: posts by category 
     post_list:
       category: sangamdigitalmediacity
-      limit: 0
       show_more: true
-      show_more_text: 🕳
+      show_more_text: Show more post...
       show_more_url: sangamdigitalmediacity-archive.html
       
       
-  - title: posts by category jeungsantabletenniscourt
-    post_list:
-      category: jeungsantabletenniscourt
-      limit: 0
-      show_more: true
-      show_more_text: 🕳
-      show_more_url: jeungsantabletenniscourt-archive.html
+#  - title: posts by category jeungsantabletenniscourt
+#    post_list:
+#      category: jeungsantabletenniscourt
+#      show_more: true
+#      show_more_text: Show more post...
+#      show_more_url: jeungsantabletenniscourt-archive.html
 
 
   - title: rss
