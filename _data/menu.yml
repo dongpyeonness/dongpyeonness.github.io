@@ -16,7 +16,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category >sangamdigitalmediacity
+  - title: posts by category 'sangamdigitalmediacity'
     post_list:
       category: sangamdigitalmediacity
       show_more: true
@@ -24,7 +24,7 @@ entries:
       show_more_url: sangamdigitalmediacity-archive.html
       
       
-  - title: posts by category/ >jeungsantabletenniscourt
+  - title: posts by category/ 'jeungsantabletenniscourt'
     post_list:
       category: jeungsantabletenniscourt
       show_more: true
