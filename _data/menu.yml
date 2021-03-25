@@ -8,10 +8,10 @@ entries:
       - title: github
         url: https://github.com/dongpyeonness
       - title: <a href="mailto:yd1vf3@icloud.com">email</a>
-      - <a href="https://user-images.githubusercontent.com/81041256/112517018-3024bb80-8ddb-11eb-9ee1-d2a577209f63.JPG" download>코인 워시</a>
+      - title: 코인워시<a href="https://user-images.githubusercontent.com/81041256/112517018-3024bb80-8ddb-11eb-9ee1-d2a577209f63.JPG" download></a>
 
       - title: 코인워시
-        url: <"https://user-images.githubusercontent.com/81041256/112517018-3024bb80-8ddb-11eb-9ee1-d2a577209f63.JPG" download</a>
+        url: "https://user-images.githubusercontent.com/81041256/112517018-3024bb80-8ddb-11eb-9ee1-d2a577209f63.JPG" download</a>
       
   - title: all posts
     post_list:
