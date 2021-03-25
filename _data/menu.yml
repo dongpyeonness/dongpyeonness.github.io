@@ -27,6 +27,12 @@ entries:
       show_more_text: See more posts...
       show_more_url: sangamdigitalmediacity-archive.html
       
+      
+  - title: misc thoughts
+    post_list:
+      category: jeungsantabletenniscourt
+      show_more: true
+
   - title: rss
     url: feed.xml
     
