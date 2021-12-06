@@ -1,10 +1,10 @@
-title: dpnscc # name of the site
-author: dongpyeonness # name of site's author
+title: yongdamconcon # name of the site
+author: yongdamconcon # name of site's author
 email: icloud.com # email of site's author
-url: dongpyeonness.github.io # root address of the site
+url: yongdamconcon.github.io # root address of the site
 baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
- dongpyeonness의 github pages입니다.
+ yongdamconcon의 github pages입니다.
   
 permalink: /:slug.html
 
@@ -30,10 +30,10 @@ plugins:
 
 # Comment Service
 disqus:
-  id: dongpyeonness
-  shortname: dongpyeonness
+  id: yongdamconcon
+  shortname: yongdamconcon
 utterances:
-  repo: dongpyeonness/dongpyeonness.github.io
+  repo: yongdamconcon/yongdamconcon.github.io
   issue-term: pathname
   label: Comment
   branch: master
