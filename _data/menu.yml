@@ -4,14 +4,14 @@
 entries:
   - title: info
     entries:
-#      - title: 고윤지 + jekyll + github
-      - title: https://github.com/yd1vf4
-        url: https://github.com/yd1vf4
+      - title: 고 윤지
+      - title: https://yd1vf4.github.io
+        url: https://yd1vf4.github.io
       - title: <a href="mailto:yd1vf3@icloud.com">yd1vf3@icloud.com</a>
 
   - title: project
     post_list:
-#      limit: 5
+      limit: 
 #      show_more: true
 #      show_more_text: See archive...
 #      show_more_url: archive.html
