@@ -1,10 +1,10 @@
-title: yongdamconcon # name of the site
-author: yongdamconcon # name of site's author
+title: yd1vf4 # name of the site
+author: yd1vf4 # name of site's author
 email: icloud.com # email of site's author
-url: yongdamconcon.github.io # root address of the site
+url: yd1vf4.github.io # root address of the site
 baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
- yongdamconcon의 github pages입니다.
+ yd1vf4 github pages입니다.
   
 permalink: /:slug.html
 
@@ -30,10 +30,10 @@ plugins:
 
 # Comment Service
 disqus:
-  id: yongdamconcon
-  shortname: yongdamconcon
+  id: yd1vf4
+  shortname: yd1vf4
 utterances:
-  repo: yongdamconcon/yongdamconcon.github.io
+  repo: yd1vf4/yd1vf4.github.io
   issue-term: pathname
   label: Comment
   branch: master
