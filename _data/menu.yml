@@ -5,23 +5,23 @@ entries:
   - title: info
     entries:
 #      - title: 고윤지 + jekyll + github
-      - title: github
+      - title: https://github.com/yd1vf4
         url: https://github.com/yd1vf4
-      - title: <a href="mailto:yd1vf3@icloud.com">email</a>
+      - title: <a href="mailto:yd1vf3@icloud.com">yd1vf3@icloud.com</a>
 
-  - title: all posts
+  - title: project
     post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+#      limit: 5
+#      show_more: true
+#      show_more_text: See archive...
+#      show_more_url: archive.html
 
-  - title: posts by category 
-    post_list:
-      category: sangamdigitalmediacity
-      show_more: true
-      show_more_text: Show more post...
-      show_more_url: sangamdigitalmediacity-archive.html
+#  - title: posts by category 
+#    post_list:
+#      category: sangamdigitalmediacity
+#      show_more: true
+#      show_more_text: Show more post...
+#      show_more_url: sangamdigitalmediacity-archive.html
       
       
 #  - title: posts by category jeungsantabletenniscourt
@@ -35,9 +35,9 @@ entries:
   - title: rss
     url: feed.xml
     
-  - title: another list
+  - title: etc...
     entries:
-      - title: with subitems
+      - title: etc...
         entries:
           - title: etc...
             url: etc
