@@ -1,6 +1,6 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
-
+<div style="text-align: left">
 entries:
   - title: user
     entries:
@@ -41,4 +41,4 @@ entries:
         entries:
           - title: etc...
             url: etc
-            
+              </div>
