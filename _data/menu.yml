@@ -15,19 +15,10 @@ entries:
 
 #  - title: posts by category 
 #    post_list:
-#      category: sangamdigitalmediacity
+#      category: st
 #      show_more: true
 #      show_more_text: Show more post...
-#      show_more_url: sangamdigitalmediacity-archive.html
-      
-      
-#  - title: posts by category jeungsantabletenniscourt
-#    post_list:
-#      category: jeungsantabletenniscourt
-#      show_more: true
-#      show_more_text: Show more post...
-#      show_more_url: jeungsantabletenniscourt-archive.html
-
+#      show_more_url: st-archive.html
 
   - title: rss
     url: feed.xml
